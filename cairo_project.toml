@@ -1,0 +1,4 @@
+[crate_roots]
+auto_pay = "src"
+repay_pull = "repay/pull/src"
+repat_push = "repay/push/src"
